@@ -1,2 +1,2 @@
-# Bubble_Pang
-use pygame, game name is BubblePang!!
+# coffee_bean_practice
+ Responsive web design practice
